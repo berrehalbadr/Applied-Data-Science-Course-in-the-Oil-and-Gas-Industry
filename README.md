@@ -1,0 +1,2 @@
+# Data-analytics-and-machine-learning-tutorials
+Data science and machine learning are fast-paced emerging technologies across all industries including oil and gas. The oil and gas industry has taken big steps to adopt these technologies to make its exploration and production operations more efficient.  This course is tailored for oil and gas industry professionals who are interested to implement data analysis and machine learning in their project development and operations.
