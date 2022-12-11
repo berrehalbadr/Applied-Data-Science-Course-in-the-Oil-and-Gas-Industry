@@ -1,4 +1,4 @@
-# Applied Data Sceince in the Oil and Gas Industry
+# Applied Data Science in the Oil and Gas Industry
 Data science and machine learning are fast-paced emerging technologies across all industries including oil and gas. The oil and gas industry has taken big steps to adopt these technologies to make its exploration and production operations more efficient.
 
 In these tutorials, I will share with you a comprehensive set of notebooks from the absolute introduction to python programming, all the way to reliable implementations of machine learning on real-world data. Along the process, we will go through all the necessary steps for a successful data science project as we'll explore both theoretical and practical concepts related to data processing, statistical investigation, effective data visualization, and machine learning concepts, to the final implementation of a set of intelligent algorithms.
