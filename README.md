@@ -9,8 +9,7 @@ We'll be following the agenda listed below, hopefully in a concise weelly manner
 - [x] 02 Python primer
 - [ ] 03 Dealing with data (Your 80% work)
 - [ ] 04 Understanding statistics in practice
-- [ ] 05 Effecient data visualization principals and application
-**Publication time**
+- [ ] 05 Data visualization story telling
 - [ ] 06 Supervised machine learning (I've got them labeled buddy)
 - [ ] 07 Unsupervised machine learning (ain't no label mate)
 - [ ] 08 Time series modeling (This is not a financial advice)
