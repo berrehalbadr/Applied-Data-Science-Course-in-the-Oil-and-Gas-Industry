@@ -8,7 +8,7 @@ We'll be following the agenda listed below, hopefully in a concise weelly manner
 - [x] 01 Introduction to oil and gas and AI
 - [x] 02 Python primer
 - [x] 03 Dealing with data (Your 80% work)
-- [ ] 04 Understanding statistics in practice
+- [ ] 04 Data through a statistician eyes | **In Process**
 - [ ] 05 Data visualization story telling
 - [ ] 06 Supervised machine learning (I've got them labeled buddy)
 - [ ] 07 Unsupervised machine learning (ain't no label mate)
