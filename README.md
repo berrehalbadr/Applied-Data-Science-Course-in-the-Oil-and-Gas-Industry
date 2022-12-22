@@ -5,7 +5,7 @@ In these tutorials, I will share with you a comprehensive set of notebooks from 
 
 We'll be following the agenda listed below, hopefully in a concise weelly manner.
 
-- [x] 01 Introduction to oil and gas and AI
+- [x] 01 Where Data Science and Petroleum Engineering meet
 - [x] 02 Python primer
 - [x] 03 Dealing with data (Your 80% work)
 - [x] 04 Data through a statistician eyes
