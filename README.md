@@ -13,8 +13,8 @@ We'll be following the agenda listed below, hopefully in a concise weelly manner
 - [x] 02 Python primer
 - [x] 03 Dealing with data (Your 80% work)
 - [x] 04 Data through a statistician eyes
-- [ ] 05 Data visualization story telling  | **In Process**
-- [ ] 06 Supervised machine learning (I've got them labeled buddy)
+- [x] 05 Data visualization story telling
+- [ ] 06 Supervised machine learning (I've got them labeled buddy) | **In Process**
 - [ ] 07 Unsupervised machine learning (ain't no label mate)
 - [ ] 08 Time series modeling (This is not a financial advice)
 - [ ] 09 Deep learning for tubular data (Welcome to over-fitting hh)
