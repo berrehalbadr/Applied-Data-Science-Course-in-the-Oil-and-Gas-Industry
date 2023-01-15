@@ -14,16 +14,16 @@ We'll be following the agenda listed below, hopefully in a concise weelly manner
 - [x] 03 Dealing with data (Your 80% work)
 - [x] 04 Data through a statistician eyes
 - [x] 05 Data visualization story telling
-- [ ] 06 Supervised machine learning (I've got them labeled buddy) | **In Process**
-- [ ] 07 Unsupervised machine learning (ain't no label mate)
-- [ ] 08 Time series modeling (This is not a financial advice)
-- [ ] 09 Deep learning for tubular data (Welcome to over-fitting hh)
-- [ ] 10 Deeper learning lol (Intresting concepts)
-- [ ] 11 Case study 1 : 
-- [ ] 12 Case study 2 :
-- [ ] 13 Case study 3 :
-- [ ] 14 Case study 4 :
-- [ ] 15 Case study 5 :
+- [x] 06 Supervised machine learning regression (finding patterns)
+- [ ] 07 Supervised machine learning classication (finding bounderies) | **In Process**
+- [ ] 08 Unsupervised machine learning (no labels, I got covered mate) 
+- [ ] 09 Time series modeling (This is not a financial advice)
+- [ ] 10 Deep learning for tubular data (Welcome to over-fitting hh)
+- [ ] 11 Deeper learning lol (Intresting concepts)
+- [ ] 12 Case study 1 : 
+- [ ] 13 Case study 2 :
+- [ ] 14 Case study 3 :
+- [ ] 15 Case study 4 :
 
 
 ## 3- How to use these notebooks?
