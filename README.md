@@ -15,7 +15,7 @@ We'll be following the agenda listed below, hopefully in a concise weelly manner
 - [x] 04 Data through a statistician eyes
 - [x] 05 Data visualization story telling
 - [x] 06 Supervised machine learning regression (finding patterns)
-- [ ] 07 Supervised machine learning classication (finding bounderies) | **In Process**
+- [ ] 07 Supervised machine learning classification (finding boundaries) | **In Process**
 - [ ] 08 Unsupervised machine learning (no labels, I got covered mate) 
 - [ ] 09 Time series modeling (This is not a financial advice)
 - [ ] 10 Deep learning for tubular data (Welcome to over-fitting hh)
